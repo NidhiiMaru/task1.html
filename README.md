@@ -25,7 +25,7 @@
       // value gets the actual text from label not just the element.
 
       if (firstName.length < 1) {
-        document.getElementById("nicknameOutput").innerText = "Please enter your name!";
+        document.getElementById("nicknameOutput").innerText = "Pleaseee enter your name!";
         return;
         //Find the HTML element that has the id of nicknameOutput
         //Whatever you assign to innerText will replace what's currently there.
